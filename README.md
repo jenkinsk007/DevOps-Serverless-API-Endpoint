@@ -1,5 +1,9 @@
 # DevOps-Serverless-API-Endpoint
-Deployable serverless application
+
+Deployable Serverless Application
+
+   Install Python API for HackerNews 
+     pip3 install HackerNews
 
 How to deploy to production
 
